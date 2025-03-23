@@ -1,4 +1,4 @@
-# CodSoft Internship - Selected Projects
+# CodSoft Internship 
 
 ## 1. **ATM Interface 🏧**
 
